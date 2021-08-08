@@ -30,63 +30,78 @@
 
 
 
-*Make sure your adblocker is on before visiting any of the linked websites*. uBlock Origin is recommended (See the `Tools` page below).
-*تاكد من استعمال برنامج لنزع الاعلانات قبل تصفح اي من المواقع الموجودة هنا* ينصح باستعمال uBlock Origin (اقرء صفحة "الادواة" ادناه).
+
+<div dir="rtl"><span> <i>
+تاكد من استعمال برنامج لنزع الاعلانات قبل تصفح اي من المواقع الموجودة هنا. استعمال uBlock Origin منصوح به. (اقرء صفحة <b> الادواة</b> ادناه).
+</i></span></div>
 
 
 
 
 
-## [► Tools / Useful Apps & Extensions / Web Services](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/tools)
-
- > Activation tools, useful applications, userscripts, download managers and helpers/tools and other miscellaneous
+## <div dir="rtl"> <a href="https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/tools"> ◀ ادواة / برامج مفيدة وملحقات متصفحات / خدمات  اونلاين</a></div> 
 
 
-
-## [► Mobile Apps & Cracked App Markets/Repos](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/mobile_apps_and_repos)
-
- > Apps and resources for Android and iOS
+<div dir="rtl">
+> ادواة تفعيل, برامج مفيدة, سكريبتات. برامج وادواة تساعد على التحميل وبرامج مختلفة اخرى.
+</div>
 
 
 
-## [► Games](https://reddit.com/r/Piracy/wiki/megathread/games)
-
- > Sites for downloading games and ROMs
+## <div dir="rtl"> <a href="https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/mobile_apps_and_repos"> ◀ تطبيقات هواتف ومتاجر تطبيقات مهكرة</a></div> 
 
 
+<div dir="rtl">
+تطبيقات ومصادر للاندويد وال IOS
+</div>
 
-## [► Movies & TV / Sports](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/movies_and_tv)
-
- > Sites for streaming and downloading/torrenting Movies & TV and Sports
-
-
-
-## [► Software Downloads](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/software_downloads)
-
- > Sites for obtaining popular cracked software
+## <div dir="rtl"> <a href="https://reddit.com/r/Piracy/wiki/megathread/games"> ◀ العاب</a></div> 
 
 
-
-## [► Books / Comics / e-learning / Other Reading Material](https://reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning)
-
- > Books, comics, manga, magazines, courses & tutorials
-
+<div dir="rtl">
+مواقع تحميل العاب ورومات
+</div>
 
 
-## [► Music](https://reddit.com/r/Piracy/wiki/megathread/music)
+## <div dir="rtl"> <a href="https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/movies_and_tv"> ◀ افلام ومسلسلات / رياضة</a></div> 
 
- > Sites & apps for downloading music, video game soundtracks/scores
+<div dir="rtl">
+مواقع لمشاهدة وتحميل/ترونت وافلام ومسلسلات ورياضة
+</div>
+ 
+
+## <div dir="rtl"> <a href="https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/software_downloads"> ◀ تحميل البرامج </a></div> 
+
+<div dir="rtl">
+مواقع لتحميل البرامج المهكرة ذات الشعبية
+</div>
 
 
 
-## [► General-Purpose Sites / Search Engines](https://reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines)
+## <div dir="rtl"> <a href="https://reddit.com/r/Piracy/wiki/megathread/reading_material_and_elearning"> ◀ كتب / كورسات / قصص مصورة / مواد قرائة اخرى </a></div> 
 
- > General-purpose torrent sites. Torrent search engines/aggregators/DHT crawlers are listed to search within as many publicly listed torrents as possible to find rare content that cannot be found in any of the trackers listed in the above categories.
 
- >
+<div dir="rtl">
+كتب, قصص مصورة, مانغا , مجلات. كورسات وشروحات.
+</div>
 
- > When using torrent search engines/DHT crawlers, they will list as many publicly available torrents as possible, unfiltered and unfettered in regards to viruses. Never use thse to search for software, but when searching for other media types, take some [**preliminary measures**](https://github.com/dexter21767/socratechs/blob/gh-pages/browsing_and_downloading_guide.md) to avoid running malware.
 
+
+## <div dir="rtl"> <a href="https://reddit.com/r/Piracy/wiki/megathread/music"> ◀ موسيقى </a></div> 
+
+<div dir="rtl">
+مواقع وتطبيقات لتحميل المسيقة, وطراكات الالعاب.
+</div>
+
+
+## <div dir="rtl"> <a href="https://reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines"> ◀ مواقع للاستعامل العام / محركات البحث</a></div> 
+
+
+<div dir="rtl">
+مواقع تورت للاستعمال العام, محركات بحث تورنت/aggregators/DHT crawlers  للبحث في اكبر عدد من قوائم التورنت العمومية لايجاد محتوى نادر لا يمكن ايجاده في اي من التراكرز المذكورة في التصنيفات المذكورة اعلاه
+<br><br>
+عن استعمال محركات بحث تورنت /DHT crawlers, سوف يتم استظهار اكثر قدر ممكن من التورنت المتوفر للعامة, بغض النظر عن احتوائها للفيروسات او لا. لذلك لا تستعلمها للبحث عن البرامج بل فقط للبحث  عن انواع ميدييا اخر. يرجى اخذ  <a herf ="https://github.com/dexter21767/socratechs/blob/gh-pages/browsing_and_downloading_guide.md"> خطوات السلامة الازمة</a>.
+</div>
 
 
 &nbsp;
@@ -105,47 +120,33 @@
 
 
 
+<div dir="rtl">
+<H4> **البرامج والمواقع التي يجب تفاديها**</h4>
+<ul>
+<li> 
+حاول تفادي موقع The Pirate Bay قدر الامكان (بالنسبة للبارمج والالعاب) فهو مملوء على اخره بالفيروسات والبرامج الخبيثة. (حتى المستعملون ذوي الجمامج لا يمكن ااتمانهم).
+</li>
+<ul>
+<li> 
+لا يزال في امكانك استعمال موقع The Pirate Bay بأمان لتحميل انواع ميديا اخرى (فيديوهات, صوتيات, الخ.) <a herf="https://github.com/dexter21767/socratechs/blob/gh-pages/browsing_and_downloading_guide.md)">اذا ابتعت بعض الخطواة البسيطة</a>.
+</li>
+ </ul>
+<li>
+برنامج uTorrent <a herf="https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825"> احتوى على برامج خبيثة من قبل (معدن بيتكوين)</a>  لذلك الشركة مالكة البرنامج لا تستحق الثقة. <br> وبرنامج Bittorrent مملوك من قبل نفس الشركة.
+ </li>
+ <li>
+برنامج Bitlord لتحميل التورنت يحتوى على برامج خبيثة
+ </li>
+  <li>
+برنامج Soda Stream يحتوى على برامج 
+ </li>
+  <li>
+برامج مثل Sidify/Allavsoft تعتبر نصب, اذ انها لا تستطيع التحميل من منصة spotify باي طريقة كانت, وكل ما تقوم بيه هوا تسجيل صوتي او تحميل من منصات اخرى مثل يوتوب.
+ </li>
+</ul>
+</div>
 
 
-**Notes on software and sites to avoid:**
-
-
-
-* Try to avoid the pirate bay if you can (for software/games), it is filled to the brim with malware torrents. [Skulled users are not trustworthy either.](https://www.reddit.com/r/Piracy/comments/cxbn33/psa_ransomware_all_current_vegas_pro_17_torrents/)
-
-
-
-  * You can still use The Pirate Bay safely when searching for other media types (video, audio, etc.) [if you follow some basic steps.](https://github.com/dexter21767/socratechs/blob/gh-pages/browsing_and_downloading_guide.md)
-
-
-
-* uTorrent [has bundled malware (a bitcoin miner) into the software in the past](https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825). The company developing this software is not trustworthy. Bittorrent (the torrent client) is owned by the same company.
-
-
-
-* [Bitlord \(torrent client\) is malware.](https://www.reddit.com/r/torrents/comments/1yb8kf/warning_do_not_download_bitlord_it_has_major/)
-
-
-
-* [Soda Stream is malware.](https://www.reddit.com/r/Piracy/comments/8q2pg3/anyone_who_can_explain_why_soda_player_is/)
-
-
-
-* [Sidify/Allavsoft are scams - They are not able to download from spotify in any way, and instead record the streams or download from alternative platforms, like youtube.](https://www.reddit.com/r/Piracy/comments/6l2lwh/any_experience_with_sidify/)
-
-
-
-* Peerblock is garbage and placebo software. Peerblock's blocklists are not accurate in any way and is not able to discern between the IP of a normal user and that of a copyright troll.
-
-
-
-
-
-&nbsp;
-
-
-
-&nbsp;
 
 
 
