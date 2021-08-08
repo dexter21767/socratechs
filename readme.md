@@ -1,4 +1,4 @@
-# /r/Piracy Wiki Index
+# Socratechs Wiki Index
 
 
 
