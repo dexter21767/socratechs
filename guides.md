@@ -1,6 +1,6 @@
 ---
 ---
-[**◄◄ Back to Wiki Index**](https://www.reddit.com/r/Piracy/wiki/index)
+[**◄◄ Back to Wiki Index**](https://github.com/dexter21767/socratechs/blob/gh-pages/readme.md)
 
 ---
 ---
@@ -9,17 +9,17 @@
 
 ### ► General
 
-* [Protecting yourself when downloading pirated content - Guide concerning copyright infringement complaints](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
+* [Protecting yourself when downloading pirated content - Guide concerning copyright infringement complaints](https://github.com/dexter21767/socratechs/blob/gh-pages/faq.md/isp_complaints)
 
-* [How to install and activate Windows 10  - Includes LTSB/LTSC](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
+* [How to install and activate Windows 10  - Includes LTSB/LTSC](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/win10upgrade_activation.md)
 
 * [How to install and activate Office](https://old.reddit.com/r/Piracy/wiki/guides/office_activation)
 
-* [What are private trackers and how to get started](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+* [What are private trackers and how to get started](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
 
 * [Getting started with usenet - /r/usenet wiki](https://www.reddit.com/r/usenet/wiki/index)
 
-* [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)
+* [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/video_quality_and_types_of_releases.md)
 
 * [4K HDR Movies: A pirate's Guide](https://www.reddit.com/r/Piracy/comments/hvcozj/4k_hdr_movies_a_pirates_guide/) - Guide by u/lasttycoon
 
@@ -92,24 +92,3 @@
 &nbsp;
 
 
-
-
----
-
-### ► All guides
-
-* https://www.reddit.com/r/Piracy/search?q=flair:%22guide%22&restrict_sr=on&sort=new&t=all
-
----
-
-&nbsp;
-
-
-
-
-**Removed due to DMCA takedown**
-
-|link|user|date|date
-|--|--|--|--|
-|[How to install Spectrasonics - Omnisphere 2 [Windows Guide]](https://www.reddit.com/r/Piracy/comments/8khu8q/how_to_install_spectrasonics_omnisphere_2_windows/) | u/Kiicki | May 18, 2018 | Dec 5, 2018 |
-[The ultimate guide to Nintendo 3DS Piracy](https://www.reddit.com/r/Piracy/comments/6h2vdd/the_ultimate_guide_to_nintendo_3ds_piracy/)|u/crayz5|Jun 13, 2017|Jul 15, 2017

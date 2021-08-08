@@ -163,7 +163,7 @@ These torrent search engines/DHT crawlers are the most powerful torrent search t
 
 ### ► **General Private Trackers**
 
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+[Intro to private trackers](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
 
 * [TorrentLeech](https://www.torrentleech.org/) - One of the largest general private trackers
 

@@ -456,7 +456,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 ### ► **Private Torrent Trackers**
 
-[Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+[Introduction to private trackers](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
 
 * [PassThePopcorn (PTP)](https://passthepopcorn.me/) - Movies tracker. Best source for movies, period. Couple of unique features - 
 !!!!* The amount of active fleshed out collections available to discover content to watch. It's often better than some legit sites dedicated to this stuff.  

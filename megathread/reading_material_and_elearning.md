@@ -317,7 +317,7 @@ See also: [General Sites and Search Engines](https://github.com/dexter21767/socr
 
 ## ► **Private torrent trackers**
 
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+[Intro to private trackers](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
 
 * [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - One of the 2 biggest private tracker for ebooks/audiobooks. The focus is on the fictional ebooks side unlike libgen though making requests can do the job. Also the best place for audiobooks in numbers though overall quality lacks a little. Similar to libgen, it's also a great place to contribute
 

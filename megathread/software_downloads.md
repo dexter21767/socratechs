@@ -124,7 +124,7 @@ Jump to the [Tools page](https://old.reddit.com/r/Piracy/wiki/megathread/tools) 
 
 ## ► Private Trackers
 
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+[Intro to private trackers](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
 
 * [Mac] [BrokenStones](https://brokenstones.club) - Considered to be the best private tracker for Mac apps
 

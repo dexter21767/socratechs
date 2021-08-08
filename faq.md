@@ -1,6 +1,6 @@
 ---
 ---
-[**◄◄ Back to Wiki Index**](https://www.reddit.com/r/Piracy/wiki/index)
+[**◄◄ Back to Wiki Index**](https://github.com/dexter21767/socratechs/blob/gh-pages/readme.md)
 
 ---
 ---
@@ -10,19 +10,19 @@
 ### ► General questions
 
 * Will I get in trouble for downloading `x` or browsing a pirate site? How to avoid getting in trouble when pirating in general?
- > [Guide on protecting yourself when downloading pirated content -- All about copyright infringement complaints and what to do if you've received one.](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
+ > [Guide on protecting yourself when downloading pirated content -- All about copyright infringement complaints and what to do if you've received one.](https://github.com/dexter21767/socratechs/blob/gh-pages/faq.md/isp_complaints)
 
 * Preliminary measures to take to avoid running malware-infected files (in regards to non-software)
- > [Browsing and downloading guide](https://www.reddit.com/r/Piracy/wiki/browsing_and_downloading_guide)
+ > [Browsing and downloading guide](https://github.com/dexter21767/socratechs/blob/gh-pages/browsing_and_downloading_guide.md)
 
-* [How do I download and activate windows 10 (including LTSC/LTSB)? How do I upgrade to windows 10 from a prior pirated windows version?](https://www.reddit.com/r/Piracy/wiki/guides/win10upgrade_activation)
+* [How do I download and activate windows 10 (including LTSC/LTSB)? How do I upgrade to windows 10 from a prior pirated windows version?](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/win10upgrade_activation.md)
  > Can I receive updates on my now-activated windows 10 PC as normal? **Yes**. Will it break the activation? **No**.
  >
  > I want to disable updates just in case, how do I do this? **Don't do this. You need security updates.**
 
 * [How do I install and activate Office?](https://old.reddit.com/r/Piracy/wiki/guides/office_activation)
 
-* [What is a private tracker and how do I get started? Benefits of private trackers, etc.](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+* [What is a private tracker and how do I get started? Benefits of private trackers, etc.](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
 
 * [What is usenet and how do I get started? - /r/usenet wiki](https://www.reddit.com/r/usenet/wiki/index)
 
@@ -49,7 +49,7 @@
 ### ► Torrenting and VPN questions
 
 * Is it recommended to use a VPN when downloading pirated material? 
- > If you are torrenting, yes. Using a VPN is not necessary when downloading from DDL sites such as Google drive, mega, zippy share, etc. Some countries may have lax copyright laws so you may not need a VPN at all, even when torrenting. [Read more here.](https://www.reddit.com/r/Piracy/wiki/faq/isp_complaints)
+ > If you are torrenting, yes. Using a VPN is not necessary when downloading from DDL sites such as Google drive, mega, zippy share, etc. Some countries may have lax copyright laws so you may not need a VPN at all, even when torrenting. [Read more here.](https://github.com/dexter21767/socratechs/blob/gh-pages/faq.md/isp_complaints)
 
 * Which free VPN service is recommended for downloading torrents?
  > None. Free VPNs are likely to collect data from you for marketing purposes, be too slow to bother with, or do not allow torrent traffic in the first place. It's recommended to purchase a subscription of a VPN service - many can be as cheap as 3 USD/month, if you buy in bulk.
@@ -106,10 +106,10 @@
 ### ► Movies & TV
 
 * Why do file sizes of videos with the same resolution vary so much? Which release do I get? Which is better?
- > Video filesizes vary due to the varying levels of compression settings applied while encoding the video. More info: [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://www.reddit.com/r/Piracy/wiki/guides/video_quality_and_types_of_releases)
+ > Video filesizes vary due to the varying levels of compression settings applied while encoding the video. More info: [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/video_quality_and_types_of_releases.md)
 
 * How can I encode a video?
-> To do quick and dirty encodes to lower the filesizes of your video library, check out [Tdarr](https://github.com/HaveAGitGat/Tdarr). To get more polished-looking encodes, you'll want to take a more manual approach. Check the [Wiki > Guides](https://www.reddit.com/r/piracy/wiki/guides) page for proper encoding guides.
+> To do quick and dirty encodes to lower the filesizes of your video library, check out [Tdarr](https://github.com/HaveAGitGat/Tdarr). To get more polished-looking encodes, you'll want to take a more manual approach. Check the [Wiki > Guides](https://github.com/dexter21767/socratechs/blob/gh-pages/guides.md) page for proper encoding guides.
 
 * Why do some of my downloads have dull/darkened/washed out colors?
  > You downloaded a video with HDR metadata. You need an HDR-capable display to play it back properly, else you'll have to use a tone-mapping software such as madVR with a video player such as [MPC](https://github.com/clsid2/mpc-hc). [MPV](https://mpv.io/) includes tone-mapping by default.
@@ -155,13 +155,13 @@ Also check out the [Steam Underground's FAQ](https://cs.rin.ru/forum/viewtopic.p
 * Will I get banned from steam/origin/uplay/epic if i play a pirated game?
  > **No.** You will also not get banned from steam if you use the "Add a non-steam game to my library" function to add a pirated game.
 
-* Are the game sites linked in the [megathread](https://www.reddit.com/r/Piracy/wiki/megathread) safe?
+* Are the game sites linked in the [megathread](	https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md) safe?
  > If you use general trackers that allow user uploading you'll have to be careful and are generally best avoided unless you can be sure the indexer is well-moderated. Also avoid using torrent aggregators/DHT crawlers (such as snowfl, torrentz2, btdig, etc.) to download games or other software. The reason for this is not because the sites intend to infect you with malware, but because their intent is to aggregate as many publicly available torrents as possible into one place. This can include torrents that have been posted to TPB or otherwise spread publicly via the DHT network.
 > 
 > If you use the dedicated game websites listed in the `Games` section, then yes, they're safe. ^^^^But ^^^^that's ^^^^exactly ^^^^what ^^^^a ^^^^malware ^^^^distributor ^^^^would ^^^^say...
 
 * My game downloads are being flagged as malware by my antivirus.
- > That is the nature of cracked files. Not to say that you should trust every loon in a youtube video that says "it's a false positive, go ahead and install", but the sites listed in the [megathread](https://www.reddit.com/r/Piracy/wiki/megathread) listed under the `Games` section are safe to use as proper game cracks will yield few generic detections. If you have an adblocker and used the proper download link, you should be good to go. Browsing pirate sites without an adblocker will just yield adverts posing as download buttons, which will yield virus-infected downloads, so make sure you're not just clicking on the most vibrant-looking link.
+ > That is the nature of cracked files. Not to say that you should trust every loon in a youtube video that says "it's a false positive, go ahead and install", but the sites listed in the [megathread](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md) listed under the `Games` section are safe to use as proper game cracks will yield few generic detections. If you have an adblocker and used the proper download link, you should be good to go. Browsing pirate sites without an adblocker will just yield adverts posing as download buttons, which will yield virus-infected downloads, so make sure you're not just clicking on the most vibrant-looking link.
 
 * Fitgirl is packed with ViRuSes!?
  > Read above, [fitgirl's site](http://fitgirl-repacks.site/) is safe to use.

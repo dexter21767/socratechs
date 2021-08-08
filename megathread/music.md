@@ -101,7 +101,7 @@
 
 ## ► Private Torrent Trackers
 
-[Introduction to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+[Introduction to private trackers](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
 
 * **[Semi-Private]** [en.metal-tracker.com](https://en.metal-tracker.com/) - A very nice tracker for metal music.
 

@@ -1,7 +1,7 @@
 ---
 ---
 
-[<- Back to FAQ](https://www.reddit.com/r/piracy/wiki/faq)
+[<- Back to FAQ](https://github.com/dexter21767/socratechs/blob/gh-pages/faq.md)
 
 ---
 ---

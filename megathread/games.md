@@ -277,7 +277,7 @@ Jump to [Related & Alternative Subreddits](https://github.com/dexter21767/socrat
 
 ## ► Private trackers
 
-[Intro to private trackers](https://www.reddit.com/r/Piracy/wiki/guides/private_trackers)
+[Intro to private trackers](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
 
 * [Gazellegames.net (GGn)](https://gazellegames.net) - Best source for games for enthusiasts. Carries games from basically any console. Can be joined through RED
 

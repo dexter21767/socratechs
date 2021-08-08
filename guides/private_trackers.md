@@ -1,9 +1,9 @@
 ---
 ---
 
-[◄◄ **Back to Guides**](https://www.reddit.com/r/piracy/wiki/guides)
+[◄◄ **Back to Guides**](https://github.com/dexter21767/socratechs/blob/gh-pages/guides.md)
 
-[◄◄ **Back to FAQ**](https://www.reddit.com/r/piracy/wiki/faq)
+[◄◄ **Back to FAQ**](https://github.com/dexter21767/socratechs/blob/gh-pages/faq.md)
 
 ---
 ---
