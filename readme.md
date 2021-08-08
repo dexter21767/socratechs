@@ -1,4 +1,4 @@
-# [► Socratechs](https://www.facebook.com/groups/socratechs/) Wiki Index
+# [Socratechs](https://www.facebook.com/groups/socratechs/) Wiki Index
 
 
 ---
