@@ -23,6 +23,6 @@
 
 ---
 
-###### Based on [► r/Piracy](https://www.reddit.com/r/Piracy/wiki)
+###### [► r/Piracy] مبني على(https://www.reddit.com/r/Piracy/wiki)
 
 
