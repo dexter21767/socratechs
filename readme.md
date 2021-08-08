@@ -10,14 +10,19 @@
 
 
 
-### [► Megathread](https://www.reddit.com/r/Piracy/wiki/megathread) - Pirate sites, apps/tools, and other resources
+### [► Megathread](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md) - Pirate sites, apps/tools, and other resources
 
 
 
-### [► FAQ](https://www.reddit.com/r/piracy/wiki/faq) - Frequently asked questions
+### [► FAQ](https://github.com/dexter21767/socratechs/blob/gh-pages/faq.md) - Frequently asked questions
 
 
 
-### [► Guides](https://www.reddit.com/r/piracy/wiki/guides)
+### [► Guides](https://github.com/dexter21767/socratechs/blob/gh-pages/guides.md)
+
+
+
+
+Based on [► r/Piracy](https://www.reddit.com/r/Piracy/wiki)
 
 
