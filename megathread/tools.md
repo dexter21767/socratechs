@@ -1,6 +1,6 @@
 ---
 ---
-[**◄◄ Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
+[**◄◄ Back to Megathread**](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md)
 
 ---
 ---

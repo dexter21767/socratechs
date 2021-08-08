@@ -1,6 +1,6 @@
 ---
 ---
-[◄◄ **Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
+[◄◄ **Back to Megathread**](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md)
 
 ---
 ---
@@ -20,7 +20,7 @@
 
 
 
-For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://www.reddit.com/r/Piracy/wiki/megathread/movies_and_tv) of the megathread.
+For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/movies_and_tv) of the megathread.
 
 ## ► Mobile Apps
 

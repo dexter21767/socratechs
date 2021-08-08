@@ -1,6 +1,6 @@
 ---
 ---
-[**◄◄ Back to Megathread**](https://www.reddit.com/r/Piracy/wiki/megathread)
+[**◄◄ Back to Megathread**](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md)
 
 ---
 ---
@@ -136,7 +136,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 ## ► **Courses/Tutorials**
 
-See also: [General Sites and Search Engines](https://www.reddit.com/r/Piracy/wiki/megathread/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
+See also: [General Sites and Search Engines](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
 
 * [coursehunter.net](https://coursehunter.net/) - Legal site. Find free tutorials online
 
