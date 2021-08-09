@@ -2,7 +2,7 @@
 
 ---
 
-[**◄◄ العودة الى الصغحة الرئيسية**](https://github.com/dexter21767/socratechs/blob/gh-pages/readme.md)
+[**◄◄ العودة الى الصغحة الرئيسية**](https://dexter21767.github.io/socratechs/readme.md)
 
 
 
@@ -22,17 +22,17 @@
 
 * Will I get in trouble for downloading `x` or browsing a pirate site? How to avoid getting in trouble when pirating in general?
 
- > [Guide on protecting yourself when downloading pirated content -- All about copyright infringement complaints and what to do if you've received one.](https://github.com/dexter21767/socratechs/blob/gh-pages/faq/isp_complaints.md)
+ > [Guide on protecting yourself when downloading pirated content -- All about copyright infringement complaints and what to do if you've received one.](https://dexter21767.github.io/socratechs/faq/isp_complaints.md)
 
 
 
 * Preliminary measures to take to avoid running malware-infected files (in regards to non-software)
 
- > [Browsing and downloading guide](https://github.com/dexter21767/socratechs/blob/gh-pages/browsing_and_downloading_guide.md)
+ > [Browsing and downloading guide](https://dexter21767.github.io/socratechs/browsing_and_downloading_guide.md)
 
 
 
-* [How do I download and activate windows 10 (including LTSC/LTSB)? How do I upgrade to windows 10 from a prior pirated windows version?](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/win10upgrade_activation.md)
+* [How do I download and activate windows 10 (including LTSC/LTSB)? How do I upgrade to windows 10 from a prior pirated windows version?](https://dexter21767.github.io/socratechs/guides/win10upgrade_activation.md)
 
  > Can I receive updates on my now-activated windows 10 PC as normal? **Yes**. Will it break the activation? **No**.
 
@@ -42,11 +42,11 @@
 
 
 
-* [How do I install and activate Office?](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/office_activation.md)
+* [How do I install and activate Office?](https://dexter21767.github.io/socratechs/guides/office_activation.md)
 
 
 
-* [What is a private tracker and how do I get started? Benefits of private trackers, etc.](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
+* [What is a private tracker and how do I get started? Benefits of private trackers, etc.](https://dexter21767.github.io/socratechs/guides/private_trackers.md)
 
 
 
@@ -100,7 +100,7 @@
 
 * Is it recommended to use a VPN when downloading pirated material? 
 
- > If you are torrenting, yes. Using a VPN is not necessary when downloading from DDL sites such as Google drive, mega, zippy share, etc. Some countries may have lax copyright laws so you may not need a VPN at all, even when torrenting. [Read more here.](https://github.com/dexter21767/socratechs/blob/gh-pages/faq/isp_complaints.md)
+ > If you are torrenting, yes. Using a VPN is not necessary when downloading from DDL sites such as Google drive, mega, zippy share, etc. Some countries may have lax copyright laws so you may not need a VPN at all, even when torrenting. [Read more here.](https://dexter21767.github.io/socratechs/faq/isp_complaints.md)
 
 
 
@@ -214,13 +214,13 @@
 
 * Why do file sizes of videos with the same resolution vary so much? Which release do I get? Which is better?
 
- > Video filesizes vary due to the varying levels of compression settings applied while encoding the video. More info: [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/video_quality_and_types_of_releases.md)
+ > Video filesizes vary due to the varying levels of compression settings applied while encoding the video. More info: [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://dexter21767.github.io/socratechs/guides/video_quality_and_types_of_releases.md)
 
 
 
 * How can I encode a video?
 
-> To do quick and dirty encodes to lower the filesizes of your video library, check out [Tdarr](https://github.com/HaveAGitGat/Tdarr). To get more polished-looking encodes, you'll want to take a more manual approach. Check the [Wiki > Guides](https://github.com/dexter21767/socratechs/blob/gh-pages/guides.md) page for proper encoding guides.
+> To do quick and dirty encodes to lower the filesizes of your video library, check out [Tdarr](https://github.com/HaveAGitGat/Tdarr). To get more polished-looking encodes, you'll want to take a more manual approach. Check the [Wiki > Guides](https://dexter21767.github.io/socratechs/guides.md) page for proper encoding guides.
 
 
 
@@ -312,7 +312,7 @@ Also check out the [Steam Underground's FAQ](https://cs.rin.ru/forum/viewtopic.p
 
 
 
-* Are the game sites linked in the [megathread](	https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md) safe?
+* Are the game sites linked in the [megathread](	https://dexter21767.github.io/socratechs/megathread.md) safe?
 
  > If you use general trackers that allow user uploading you'll have to be careful and are generally best avoided unless you can be sure the indexer is well-moderated. Also avoid using torrent aggregators/DHT crawlers (such as snowfl, torrentz2, btdig, etc.) to download games or other software. The reason for this is not because the sites intend to infect you with malware, but because their intent is to aggregate as many publicly available torrents as possible into one place. This can include torrents that have been posted to TPB or otherwise spread publicly via the DHT network.
 
@@ -324,7 +324,7 @@ Also check out the [Steam Underground's FAQ](https://cs.rin.ru/forum/viewtopic.p
 
 * My game downloads are being flagged as malware by my antivirus.
 
- > That is the nature of cracked files. Not to say that you should trust every loon in a youtube video that says "it's a false positive, go ahead and install", but the sites listed in the [megathread](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md) listed under the `Games` section are safe to use as proper game cracks will yield few generic detections. If you have an adblocker and used the proper download link, you should be good to go. Browsing pirate sites without an adblocker will just yield adverts posing as download buttons, which will yield virus-infected downloads, so make sure you're not just clicking on the most vibrant-looking link.
+ > That is the nature of cracked files. Not to say that you should trust every loon in a youtube video that says "it's a false positive, go ahead and install", but the sites listed in the [megathread](https://dexter21767.github.io/socratechs/megathread.md) listed under the `Games` section are safe to use as proper game cracks will yield few generic detections. If you have an adblocker and used the proper download link, you should be good to go. Browsing pirate sites without an adblocker will just yield adverts posing as download buttons, which will yield virus-infected downloads, so make sure you're not just clicking on the most vibrant-looking link.
 
 
 

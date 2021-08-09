@@ -2,7 +2,7 @@
 
 ---
 
-[**◄◄ العودة الى الصغحة الرئيسية**](https://github.com/dexter21767/socratechs/blob/gh-pages/readme.md)
+[**◄◄ العودة الى الصغحة الرئيسية**](https://dexter21767.github.io/socratechs/readme.md)
 
 
 
@@ -39,7 +39,7 @@
 
 
 
-## <div dir="rtl"> <a href="https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/tools.md"> ◀ ادواة / برامج مفيدة وملحقات متصفحات / خدمات  اونلاين</a></div> 
+## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/tools.md"> ◀ ادواة / برامج مفيدة وملحقات متصفحات / خدمات  اونلاين</a></div> 
 
 
 <div dir="rtl">
@@ -48,14 +48,14 @@
 
 
 
-## <div dir="rtl"> <a href="https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/mobile_apps_and_repos.md"> ◀ تطبيقات هواتف ومتاجر تطبيقات مهكرة</a></div> 
+## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/mobile_apps_and_repos.md"> ◀ تطبيقات هواتف ومتاجر تطبيقات مهكرة</a></div> 
 
 
 <div dir="rtl">
 تطبيقات ومصادر للاندويد وال IOS
 </div>
 
-## <div dir="rtl"> <a href="https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/games.md"> ◀ العاب</a></div> 
+## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/games.md"> ◀ العاب</a></div> 
 
 
 <div dir="rtl">
@@ -63,14 +63,14 @@
 </div>
 
 
-## <div dir="rtl"> <a href="https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/movies_and_tv.md"> ◀ افلام ومسلسلات / رياضة</a></div> 
+## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/movies_and_tv.md"> ◀ افلام ومسلسلات / رياضة</a></div> 
 
 <div dir="rtl">
 مواقع لمشاهدة وتحميل/ترونت وافلام ومسلسلات ورياضة
 </div>
  
 
-## <div dir="rtl"> <a href="https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/software_downloads.md"> ◀ تحميل البرامج </a></div> 
+## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/software_downloads.md"> ◀ تحميل البرامج </a></div> 
 
 <div dir="rtl">
 مواقع لتحميل البرامج المهكرة ذات الشعبية
@@ -78,7 +78,7 @@
 
 
 
-## <div dir="rtl"> <a href="https://github.com/dexter21767/socratechs/blob/gh-pages/reading_material_and_elearning.md"> ◀ كتب / كورسات / قصص مصورة / مواد قرائة اخرى </a></div> 
+## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/reading_material_and_elearning.md"> ◀ كتب / كورسات / قصص مصورة / مواد قرائة اخرى </a></div> 
 
 
 <div dir="rtl">
@@ -87,20 +87,20 @@
 
 
 
-## <div dir="rtl"> <a href="https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/music.md"> ◀ موسيقى </a></div> 
+## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/music.md"> ◀ موسيقى </a></div> 
 
 <div dir="rtl">
 مواقع وتطبيقات لتحميل المسيقة, وطراكات الالعاب.
 </div>
 
 
-## <div dir="rtl"> <a href="https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/general_sites_and_search_engines.md"> ◀ مواقع للاستعامل العام / محركات البحث</a></div> 
+## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/general_sites_and_search_engines.md"> ◀ مواقع للاستعامل العام / محركات البحث</a></div> 
 
 
 <div dir="rtl">
 مواقع تورت للاستعمال العام, محركات بحث تورنت/aggregators/DHT crawlers  للبحث في اكبر عدد من قوائم التورنت العمومية لايجاد محتوى نادر لا يمكن ايجاده في اي من التراكرز المذكورة في التصنيفات المذكورة اعلاه
 <br><br>
-عن استعمال محركات بحث تورنت /DHT crawlers, سوف يتم استظهار اكثر قدر ممكن من التورنت المتوفر للعامة, بغض النظر عن احتوائها للفيروسات او لا. لذلك لا تستعلمها للبحث عن البرامج بل فقط للبحث  عن انواع ميدييا اخر. يرجى اخذ  <a herf ="https://github.com/dexter21767/socratechs/blob/gh-pages/browsing_and_downloading_guide.md"> خطوات السلامة الازمة</a>.
+عن استعمال محركات بحث تورنت /DHT crawlers, سوف يتم استظهار اكثر قدر ممكن من التورنت المتوفر للعامة, بغض النظر عن احتوائها للفيروسات او لا. لذلك لا تستعلمها للبحث عن البرامج بل فقط للبحث  عن انواع ميدييا اخر. يرجى اخذ  <a herf ="https://dexter21767.github.io/socratechs/browsing_and_downloading_guide.md"> خطوات السلامة الازمة</a>.
 </div>
 
 
@@ -128,7 +128,7 @@
 </li>
 <ul>
 <li> 
-لا يزال في امكانك استعمال موقع The Pirate Bay بأمان لتحميل انواع ميديا اخرى (فيديوهات, صوتيات, الخ.) <a herf="https://github.com/dexter21767/socratechs/blob/gh-pages/browsing_and_downloading_guide.md)">اذا ابتعت بعض الخطواة البسيطة</a>.
+لا يزال في امكانك استعمال موقع The Pirate Bay بأمان لتحميل انواع ميديا اخرى (فيديوهات, صوتيات, الخ.) <a herf="https://dexter21767.github.io/socratechs/browsing_and_downloading_guide.md)">اذا ابتعت بعض الخطواة البسيطة</a>.
 </li>
  </ul>
 <li>

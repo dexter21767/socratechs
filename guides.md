@@ -2,7 +2,7 @@
 
 ---
 
-[**◄◄ العودة الى الصغحة الرئيسية**](https://github.com/dexter21767/socratechs/blob/gh-pages/readme.md)
+[**◄◄ العودة الى الصغحة الرئيسية**](https://dexter21767.github.io/socratechs/readme.md)
 
 
 
@@ -20,19 +20,19 @@
 
 
 
-* [Protecting yourself when downloading pirated content - Guide concerning copyright infringement complaints](https://github.com/dexter21767/socratechs/blob/gh-pages/faq/isp_complaints.md)
+* [Protecting yourself when downloading pirated content - Guide concerning copyright infringement complaints](https://dexter21767.github.io/socratechs/faq/isp_complaints.md)
 
 
 
-* [How to install and activate Windows 10  - Includes LTSB/LTSC](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/win10upgrade_activation.md)
+* [How to install and activate Windows 10  - Includes LTSB/LTSC](https://dexter21767.github.io/socratechs/guides/win10upgrade_activation.md)
 
 
 
-* [How to install and activate Office](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/office_activation.md)
+* [How to install and activate Office](https://dexter21767.github.io/socratechs/guides/office_activation.md)
 
 
 
-* [What are private trackers and how to get started](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
+* [What are private trackers and how to get started](https://dexter21767.github.io/socratechs/guides/private_trackers.md)
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-* [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/video_quality_and_types_of_releases.md)
+* [Breakdown of video naming conventions, bitrate and quality. Also covered: converting mkv to mp4](https://dexter21767.github.io/socratechs/guides/video_quality_and_types_of_releases.md)
 
 
 
