@@ -1,6 +1,6 @@
 ---
 ---
-[**◄◄ Back to Wiki Index**](https://github.com/dexter21767/socratechs/blob/gh-pages/readme.md)
+[**◄◄ العودة الى الصغحة الرئيسية**](https://github.com/dexter21767/socratechs/blob/gh-pages/readme.md)
 
 ---
 ---
