@@ -22,7 +22,7 @@
 
 
 
-* Guided instructions available on [Wiki > Guides.](https://old.reddit.com/r/piracy/wiki/guides)
+* Guided instructions available on [Wiki > Guides.](https://github.com/dexter21767/socratechs/blob/gh-pages/guides.md)
 
 * Cached links are available to allow you to view the page without needing to sign in.
 
