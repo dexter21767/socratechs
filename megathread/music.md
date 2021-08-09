@@ -1,6 +1,6 @@
 ---
 ---
-[◄◄ Megathread العودة الى ](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md)
+[◄◄ Megathread العودة الى ](https://dexter21767.github.io/socratechs/megathread)
 
 ---
 ---
@@ -101,7 +101,7 @@
 
 ## ► Private Torrent Trackers
 
-[Introduction to private trackers](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
+[Introduction to private trackers](https://dexter21767.github.io/socratechs/guides/private_trackers)
 
 * **[Semi-Private]** [en.metal-tracker.com](https://en.metal-tracker.com/) - A very nice tracker for metal music.
 

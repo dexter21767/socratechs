@@ -1,6 +1,6 @@
 ---
 ---
-[◄◄ Megathread العودة الى ](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md)
+[◄◄ Megathread العودة الى ](https://dexter21767.github.io/socratechs/megathread)
 
 ---
 ---
@@ -10,7 +10,7 @@
 
 **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
-⚠️ General-purpose indexers to search for any type of content. If you're looking for software, it's recommended to use the [**Software Downloads**](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/software_downloads.md) section of the wiki instead. In regards to non-software, sites like thepiratebay/limetorrents can also have fake torrents - follow these [**preliminary measures**](https://github.com/dexter21767/socratechs/blob/gh-pages/browsing_and_downloading_guide.md) to avoid accidentally running malware.
+⚠️ General-purpose indexers to search for any type of content. If you're looking for software, it's recommended to use the [**Software Downloads**](https://dexter21767.github.io/socratechs/megathread/software_downloads) section of the wiki instead. In regards to non-software, sites like thepiratebay/limetorrents can also have fake torrents - follow these [**preliminary measures**](https://dexter21767.github.io/socratechs/browsing_and_downloading_guide) to avoid accidentally running malware.
 
 ## ► **General Indexers**
 
@@ -79,7 +79,7 @@ Discussion and release boards for multiple types of content
 
 
 
-⚠️ **[Warning]** The below search engines / torrent aggregators will list as many publicly available torrents as possible, unfiltered and unfettered. This means that torrents that download malware are likely to appear in the search results. Never use these to search for software/games, but when searching for other media types, such as videos, take some [**preliminary measures**](https://github.com/dexter21767/socratechs/blob/gh-pages/browsing_and_downloading_guide.md) to avoid running malware.
+⚠️ **[Warning]** The below search engines / torrent aggregators will list as many publicly available torrents as possible, unfiltered and unfettered. This means that torrents that download malware are likely to appear in the search results. Never use these to search for software/games, but when searching for other media types, such as videos, take some [**preliminary measures**](https://dexter21767.github.io/socratechs/browsing_and_downloading_guide) to avoid running malware.
 
 ## ► DDL Search Engines
 
@@ -163,7 +163,7 @@ These torrent search engines/DHT crawlers are the most powerful torrent search t
 
 ### ► **General Private Trackers**
 
-[Intro to private trackers](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
+[Intro to private trackers](https://dexter21767.github.io/socratechs/guides/private_trackers)
 
 * [TorrentLeech](https://www.torrentleech.org/) - One of the largest general private trackers
 

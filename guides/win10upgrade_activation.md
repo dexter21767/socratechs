@@ -1,9 +1,9 @@
 ---
 ---
 
-[◄◄ العودة الى الشروحات](https://github.com/dexter21767/socratechs/blob/gh-pages/guides.md)
+[◄◄ العودة الى الشروحات](https://dexter21767.github.io/socratechs/guides)
 
-[◄◄ العودة الى أسئلة كثيرة التكرار](https://github.com/dexter21767/socratechs/blob/gh-pages/faq.md)
+[◄◄ العودة الى أسئلة كثيرة التكرار](https://dexter21767.github.io/socratechs/faq)
 
 ---
 ---

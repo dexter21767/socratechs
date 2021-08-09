@@ -1,6 +1,6 @@
 ---
 ---
-[◄◄ Megathread العودة الى ](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md)
+[◄◄ Megathread العودة الى ](https://dexter21767.github.io/socratechs/megathread)
 
 ---
 ---
@@ -9,13 +9,13 @@
 
 ⚠️ **Use an adblocker like uBlock Origin before visiting any of the linked sites.**
 
-Some preliminary [steps to take](https://github.com/dexter21767/socratechs/blob/gh-pages/browsing_and_downloading_guide.md) (in regards to non-software) to avoid accidentally running malware.
+Some preliminary [steps to take](https://dexter21767.github.io/socratechs/browsing_and_downloading_guide) (in regards to non-software) to avoid accidentally running malware.
 
-See: [Related Subreddits](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/related_subreddits.md) for streaming subreddits or request subreddits
+See: [Related Subreddits](https://dexter21767.github.io/socratechs/megathread/related_subreddits) for streaming subreddits or request subreddits
 
 &nbsp;
 
-❗ ***For hard-to-find content, you can use these [general trackers and/or search for open directories](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/general_sites_and_search_engines.md). The torrent aggregators and DHT crawlers will be your best bet for finding rare content***
+❗ ***For hard-to-find content, you can use these [general trackers and/or search for open directories](https://dexter21767.github.io/socratechs/megathread/general_sites_and_search_engines). The torrent aggregators and DHT crawlers will be your best bet for finding rare content***
 
 &nbsp;
 
@@ -456,7 +456,7 @@ Some DDL sites will use premium-only hosts to distribute content. To get around 
 
 ### ► **Private Torrent Trackers**
 
-[Introduction to private trackers](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
+[Introduction to private trackers](https://dexter21767.github.io/socratechs/guides/private_trackers)
 
 * [PassThePopcorn (PTP)](https://passthepopcorn.me/) - Movies tracker. Best source for movies, period. Couple of unique features - 
 !!!!* The amount of active fleshed out collections available to discover content to watch. It's often better than some legit sites dedicated to this stuff.  

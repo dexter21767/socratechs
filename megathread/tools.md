@@ -2,7 +2,7 @@
 
 ---
 
-[◄◄ Megathread العودة الى ](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md)
+[◄◄ Megathread العودة الى ](https://dexter21767.github.io/socratechs/megathread)
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-* Guided instructions available on [Wiki > Guides.](https://github.com/dexter21767/socratechs/blob/gh-pages/guides.md)
+* Guided instructions available on [Wiki > Guides.](https://dexter21767.github.io/socratechs/guides)
 
 * Cached links are available to allow you to view the page without needing to sign in.
 

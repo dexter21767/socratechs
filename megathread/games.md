@@ -1,6 +1,6 @@
 ---
 ---
-[◄◄ Megathread العودة الى ](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md)
+[◄◄ Megathread العودة الى ](https://dexter21767.github.io/socratechs/megathread)
 
 ---
 ---
@@ -204,7 +204,7 @@ Emulators allow you to play console games on the PC. You can find resources for 
 
 Visit [emulation.gametechwiki.com](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) for extra resources for ROMs (eg. emulator files/BIOS files, etc)
 
-Jump to [Related & Alternative Subreddits](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/related_subreddits.md) to view Console oriented subs and ROM-sharing subs
+Jump to [Related & Alternative Subreddits](https://dexter21767.github.io/socratechs/megathread/related_subreddits) to view Console oriented subs and ROM-sharing subs
 
 * /r/Roms - Has a ROMs megathread and allows requests for specific game titles
 
@@ -277,7 +277,7 @@ Jump to [Related & Alternative Subreddits](https://github.com/dexter21767/socrat
 
 ## ► Private trackers
 
-[Intro to private trackers](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
+[Intro to private trackers](https://dexter21767.github.io/socratechs/guides/private_trackers)
 
 * [Gazellegames.net (GGn)](https://gazellegames.net) - Best source for games for enthusiasts. Carries games from basically any console. Can be joined through RED
 

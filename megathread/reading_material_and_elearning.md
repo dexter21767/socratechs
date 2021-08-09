@@ -1,6 +1,6 @@
 ---
 ---
-[◄◄ Megathread العودة الى ](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md)
+[◄◄ Megathread العودة الى ](https://dexter21767.github.io/socratechs/megathread)
 
 ---
 ---
@@ -136,7 +136,7 @@ Guides and Search Engines dedicated to help you increase your reach in finding c
 
 ## ► **Courses/Tutorials**
 
-See also: [General Sites and Search Engines](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/general_sites_and_search_engines.md). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
+See also: [General Sites and Search Engines](https://dexter21767.github.io/socratechs/megathread/general_sites_and_search_engines). Many popular torrent indexers have courses available, such as Rutracker and 1337x.to
 
 * [coursehunter.net](https://coursehunter.net/) - Legal site. Find free tutorials online
 
@@ -317,7 +317,7 @@ See also: [General Sites and Search Engines](https://github.com/dexter21767/socr
 
 ## ► **Private torrent trackers**
 
-[Intro to private trackers](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
+[Intro to private trackers](https://dexter21767.github.io/socratechs/guides/private_trackers)
 
 * [MyAnonamouse a.k.a. MAM](https://www.myanonamouse.net/) - One of the 2 biggest private tracker for ebooks/audiobooks. The focus is on the fictional ebooks side unlike libgen though making requests can do the job. Also the best place for audiobooks in numbers though overall quality lacks a little. Similar to libgen, it's also a great place to contribute
 

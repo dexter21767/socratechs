@@ -1,6 +1,6 @@
 ---
 ---
-[◄◄ Megathread العودة الى ](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md)
+[◄◄ Megathread العودة الى ](https://dexter21767.github.io/socratechs/megathread)
 
 ---
 ---
@@ -124,7 +124,7 @@ Jump to the [Tools page](https://old.reddit.com/r/Piracy/wiki/megathread/tools) 
 
 ## ► Private Trackers
 
-[Intro to private trackers](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/private_trackers.md)
+[Intro to private trackers](https://dexter21767.github.io/socratechs/guides/private_trackers)
 
 * [Mac] [BrokenStones](https://brokenstones.club) - Considered to be the best private tracker for Mac apps
 

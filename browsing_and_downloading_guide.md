@@ -1,7 +1,7 @@
 ---
 ---
 
-[◄◄ العودة الى أسئلة كثيرة التكرار](https://dexter21767.github.io/socratechs/faq.md)
+[◄◄ العودة الى أسئلة كثيرة التكرار](https://dexter21767.github.io/socratechs/faq)
 
 ---
 ---
