@@ -28,7 +28,7 @@
 
 
 
-* [How to install and activate Office](https://old.reddit.com/r/Piracy/wiki/guides/office_activation)
+* [How to install and activate Office](https://github.com/dexter21767/socratechs/blob/gh-pages/guides/office_activation.md)
 
 
 
