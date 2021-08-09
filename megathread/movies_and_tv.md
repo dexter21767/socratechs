@@ -11,11 +11,11 @@
 
 Some preliminary [steps to take](https://github.com/dexter21767/socratechs/blob/gh-pages/browsing_and_downloading_guide.md) (in regards to non-software) to avoid accidentally running malware.
 
-See: [Related Subreddits](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/related_subreddits) for streaming subreddits or request subreddits
+See: [Related Subreddits](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/related_subreddits.md) for streaming subreddits or request subreddits
 
 &nbsp;
 
-❗ ***For hard-to-find content, you can use these [general trackers and/or search for open directories](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/general_sites_and_search_engines). The torrent aggregators and DHT crawlers will be your best bet for finding rare content***
+❗ ***For hard-to-find content, you can use these [general trackers and/or search for open directories](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/general_sites_and_search_engines.md). The torrent aggregators and DHT crawlers will be your best bet for finding rare content***
 
 &nbsp;
 

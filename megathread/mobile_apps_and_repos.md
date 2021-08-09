@@ -20,7 +20,7 @@
 
 
 
-For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/movies_and_tv) of the megathread.
+For mobile Movies & TV apps, jump to the [**Movies & TV section**](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/movies_and_tv.md) of the megathread.
 
 ## ► Mobile Apps
 

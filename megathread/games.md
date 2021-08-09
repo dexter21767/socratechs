@@ -204,7 +204,7 @@ Emulators allow you to play console games on the PC. You can find resources for 
 
 Visit [emulation.gametechwiki.com](https://emulation.gametechwiki.com/index.php/ROM_%26_ISO_Sites) for extra resources for ROMs (eg. emulator files/BIOS files, etc)
 
-Jump to [Related & Alternative Subreddits](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread.md/related_subreddits) to view Console oriented subs and ROM-sharing subs
+Jump to [Related & Alternative Subreddits](https://github.com/dexter21767/socratechs/blob/gh-pages/megathread/related_subreddits.md) to view Console oriented subs and ROM-sharing subs
 
 * /r/Roms - Has a ROMs megathread and allows requests for specific game titles
 

@@ -100,7 +100,7 @@
 
 * Is it recommended to use a VPN when downloading pirated material? 
 
- > If you are torrenting, yes. Using a VPN is not necessary when downloading from DDL sites such as Google drive, mega, zippy share, etc. Some countries may have lax copyright laws so you may not need a VPN at all, even when torrenting. [Read more here.](https://github.com/dexter21767/socratechs/blob/gh-pages/faq.md/isp_complaints)
+ > If you are torrenting, yes. Using a VPN is not necessary when downloading from DDL sites such as Google drive, mega, zippy share, etc. Some countries may have lax copyright laws so you may not need a VPN at all, even when torrenting. [Read more here.](https://github.com/dexter21767/socratechs/blob/gh-pages/faq/isp_complaints.md)
 
 
 
