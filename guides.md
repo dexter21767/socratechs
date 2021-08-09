@@ -20,7 +20,7 @@
 
 
 
-* [Protecting yourself when downloading pirated content - Guide concerning copyright infringement complaints](https://github.com/dexter21767/socratechs/blob/gh-pages/faq.md/isp_complaints)
+* [Protecting yourself when downloading pirated content - Guide concerning copyright infringement complaints](https://github.com/dexter21767/socratechs/blob/gh-pages/faq/isp_complaints.md)
 
 
 
