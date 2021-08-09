@@ -109,25 +109,6 @@
 </tr>
 </tbody></table>
 
-Tool Name|Version #|URL|Cached Link|Win 7|Win 8/8.1|Win 10/LTSB/LTSC|Office|Description
-
---|--|--|--|--|--|--|--|--
-
-MAS|1.4|[Github page](https://github.com/massgravel/Microsoft-Activation-Scripts) - [Latest releases](https://github.com/massgravel/Microsoft-Activation-Scripts/releases) (If you have to ask for the zip password... Try more observation)|[Wayback Machine](https://web.archive.org/web/20200828104337/https://github.com/massgravel/Microsoft-Activation-Scripts)| ✓	| ✓	| **Best**| ✓| Activates all Win10 and Office.
-
-Office C2R-R2V-AIO | 6.8.0	| [Original post](https://forums.mydigitallife.net/threads/how-to-support-chat-office-c2r-download-install-activation.62571/page-28#post-1150042) at MyDigitalLife. abbodi1406's [GitHub Repo](https://github.com/abbodi1406/C2R-R2V-AIO)	| [GDrive](https://drive.google.com/open?id=1h2qQ75BT7OHmMq4N702e1lxR8SnIu8Ci) -- [Dropbox](https://www.dropbox.com/s/b8kdzbbat9n78tt/C2R.pdf?dl=0)	| 	| 	| 	|✓	| Converts Office Retail installations to Volume License.
-
-KMS_VL_ALL	|34.7	| Forum [discussion page](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/) at MyDigitalLife. Codepen [Page](https://codepen.io/abbodi1406/full/yLaYNKr) (No login needed)	|[GDrive](https://drive.google.com/open?id=17u8O23O4H8tSRhYx0hDUaRSfkW1_olLU) -- [Dropbox](https://www.dropbox.com/s/xv8fn9akuwnv6h1/KMS_VL_ALL.pdf?dl=0)	|✓	|✓	|✓	|✓	|  Activates Office Volume License installations and Windows.  **Does not work on Win7 Ultimate.**
-
-KMSAuto Net	|1.5.3	|[ru-board forum page](http://forum.ru-board.com/topic.cgi?forum=2&amp;topic=5559#1)	|[Gdrive](https://drive.google.com/file/d/1fAlF8K4_FJfjLvXgkIGp0XmCDXll148H/view) -- [Dropbox](https://www.dropbox.com/s/yfy61pslmopnz9g/autokms.pdf?dl=0)	|✓	|✓	|✓	|✓	| Does the same as KMS_VL_ALL. **Does not work on Win7 Ultimate.**
-
-Daz's Windows Loader	|2.2.2	|[MyDigitalLife forum page](https://forums.mydigitallife.net/threads/windows-loader-download.58464/)	|[GDrive](https://drive.google.com/file/d/1qcLeyshfBWgd8Y4M8t9Xkjtrs7pzgWti/view) -- [Dropbox](https://www.dropbox.com/s/fvdwpdo8hr9xixo/windows%20loader.pdf?dl=0)	|✓	| 	| 	| 	| Activates all Windows 7 if disk is MBR-partitioned. Possible workarounds: MyDigitalLife [thread 1](https://forums.mydigitallife.net/threads/window-7-64-daz-loader-uefi-motherboard-disabling-uefi-will-work.34528/). [Thread 2](https://forums.mydigitallife.net/threads/you-can-activate-win7-on-a-gpt-partition-with-daz-loader-without-converting-gpt-mbr.76768/)
-
-HWIDGEN	|62.01	|[Aiowares forum page](https://www.aiowares.com/showthread.php?tid=246). Use the download link `MIRROR1`	|[GDrive](https://drive.google.com/file/d/14lND8FJDi93O0o-TJSZ7DZtgiuDQbSKw/view) -- [Dropbox](https://www.dropbox.com/s/0q9npc9ywix04lg/HWIDGEN.KMS38.pdf?dl=0)	| 	| 	|✓		| 	|Activates Win10. Use KMS38 mode for LTSC/Enterprise, else HWID. KMS38 mode lasts until 2038, HWID mode is permanent. [Image.](https://i.imgur.com/lmjLOtq.jpg)
-
-
-
-&nbsp;
 
 
 
