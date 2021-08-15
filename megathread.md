@@ -36,10 +36,7 @@
 </i></span></div>
 
 
-
-
-
-## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/tools"> ◀ ادواة / برامج مفيدة وملحقات متصفحات / خدمات  اونلاين</a></div> 
+<div dir="rtl"> <h2> <a href="https://dexter21767.github.io/socratechs/megathread/tools"> ◀ ادواة / برامج مفيدة وملحقات متصفحات / خدمات  اونلاين</a></h2></div> 
 
 
 <div dir="rtl">
@@ -48,14 +45,14 @@
 
 
 
-## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/mobile_apps_and_repos"> ◀ تطبيقات هواتف ومتاجر تطبيقات مهكرة</a></div> 
+<div dir="rtl"> <h2><a href="https://dexter21767.github.io/socratechs/megathread/mobile_apps_and_repos"> ◀ تطبيقات هواتف ومتاجر تطبيقات مهكرة</a></h2></div>  
 
 
 <div dir="rtl">
 تطبيقات ومصادر للاندويد وال IOS
 </div>
 
-## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/games"> ◀ العاب</a></div> 
+<div dir="rtl"><h2><a href="https://dexter21767.github.io/socratechs/megathread/games"> ◀ العاب</a></h2></div>  
 
 
 <div dir="rtl">
@@ -63,14 +60,14 @@
 </div>
 
 
-## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/movies_and_tv"> ◀ افلام ومسلسلات / رياضة</a></div> 
+<div dir="rtl"><h2><a href="https://dexter21767.github.io/socratechs/megathread/movies_and_tv"> ◀ افلام ومسلسلات / رياضة</a></h2></div> 
 
 <div dir="rtl">
 مواقع لمشاهدة وتحميل/ترونت وافلام ومسلسلات ورياضة
 </div>
  
 
-## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/software_downloads"> ◀ تحميل البرامج </a></div> 
+<div dir="rtl"><h2><a href="https://dexter21767.github.io/socratechs/megathread/software_downloads"> ◀ تحميل البرامج </a></h2></div>  
 
 <div dir="rtl">
 مواقع لتحميل البرامج المهكرة ذات الشعبية
@@ -78,7 +75,7 @@
 
 
 
-## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/reading_material_and_elearning"> ◀ كتب / كورسات / قصص مصورة / مواد قرائة اخرى </a></div> 
+<div dir="rtl"><h2><a href="https://dexter21767.github.io/socratechs/reading_material_and_elearning"> ◀ كتب / كورسات / قصص مصورة / مواد قرائة اخرى </a></h2></div> 
 
 
 <div dir="rtl">
@@ -87,14 +84,14 @@
 
 
 
-## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/music"> ◀ موسيقى </a></div> 
+<div dir="rtl"><h2><a href="https://dexter21767.github.io/socratechs/megathread/music"> ◀ موسيقى </a></h2></div>  
 
 <div dir="rtl">
 مواقع وتطبيقات لتحميل المسيقة, وطراكات الالعاب.
 </div>
 
 
-## <div dir="rtl"> <a href="https://dexter21767.github.io/socratechs/megathread/general_sites_and_search_engines"> ◀ مواقع للاستعامل العام / محركات البحث</a></div> 
+<div dir="rtl"><h2><a href="https://dexter21767.github.io/socratechs/megathread/general_sites_and_search_engines"> ◀ مواقع للاستعامل العام / محركات البحث</a></h2></div> 
 
 
 <div dir="rtl">
