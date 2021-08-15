@@ -2,7 +2,7 @@
 
 ---
 
-[**◄◄ العودة الى الصغحة الرئيسية**](https://dexter21767.github.io/socratechs/readme)
+[**◄◄ العودة الى الصغحة الرئيسية**](https://dexter21767.github.io/socratechs/)
 
 
 
