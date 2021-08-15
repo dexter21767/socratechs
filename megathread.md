@@ -97,7 +97,7 @@
 <div dir="rtl">
 مواقع تورت للاستعمال العام, محركات بحث تورنت/aggregators/DHT crawlers  للبحث في اكبر عدد من قوائم التورنت العمومية لايجاد محتوى نادر لا يمكن ايجاده في اي من التراكرز المذكورة في التصنيفات المذكورة اعلاه
 <br><br>
-عن استعمال محركات بحث تورنت /DHT crawlers, سوف يتم استظهار اكثر قدر ممكن من التورنت المتوفر للعامة, بغض النظر عن احتوائها للفيروسات او لا. لذلك لا تستعلمها للبحث عن البرامج بل فقط للبحث  عن انواع ميدييا اخر. يرجى اخذ  <a herf ="https://dexter21767.github.io/socratechs/browsing_and_downloading_guide"> خطوات السلامة الازمة</a>.
+عن استعمال محركات بحث تورنت /DHT crawlers, سوف يتم استظهار اكثر قدر ممكن من التورنت المتوفر للعامة, بغض النظر عن احتوائها للفيروسات او لا. لذلك لا تستعلمها للبحث عن البرامج بل فقط للبحث  عن انواع ميدييا اخر. يرجى اخذ  <a href ="https://dexter21767.github.io/socratechs/browsing_and_downloading_guide"> خطوات السلامة الازمة</a>.
 </div>
 
 
@@ -125,11 +125,11 @@
 </li>
 <ul>
 <li> 
-لا يزال في امكانك استعمال موقع The Pirate Bay بأمان لتحميل انواع ميديا اخرى (فيديوهات, صوتيات, الخ.) <a herf="https://dexter21767.github.io/socratechs/browsing_and_downloading_guide)">اذا ابتعت بعض الخطواة البسيطة</a>.
+لا يزال في امكانك استعمال موقع The Pirate Bay بأمان لتحميل انواع ميديا اخرى (فيديوهات, صوتيات, الخ.) <a href="https://dexter21767.github.io/socratechs/browsing_and_downloading_guide)">اذا ابتعت بعض الخطواة البسيطة</a>.
 </li>
  </ul>
 <li>
-برنامج uTorrent <a herf="https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825"> احتوى على برامج خبيثة من قبل (معدن بيتكوين)</a>  لذلك الشركة مالكة البرنامج لا تستحق الثقة. <br> وبرنامج Bittorrent مملوك من قبل نفس الشركة.
+برنامج uTorrent <a href="https://www.trustedreviews.com/news/utorrent-silently-installing-bundled-bitcoin-mining-software-2931825"> احتوى على برامج خبيثة من قبل (معدن بيتكوين)</a>  لذلك الشركة مالكة البرنامج لا تستحق الثقة. <br> وبرنامج Bittorrent مملوك من قبل نفس الشركة.
  </li>
  <li>
 برنامج Bitlord لتحميل التورنت يحتوى على برامج خبيثة
