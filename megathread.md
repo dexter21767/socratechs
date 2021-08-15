@@ -125,7 +125,7 @@
 </li>
 <ul>
 <li> 
-لا يزال في امكانك استعمال موقع The Pirate Bay بأمان لتحميل انواع ميديا اخرى (فيديوهات, صوتيات, الخ.) <a href="https://dexter21767.github.io/socratechs/browsing_and_downloading_guide)">اذا ابتعت بعض الخطواة البسيطة</a>.
+لا يزال في امكانك استعمال موقع The Pirate Bay بأمان لتحميل انواع ميديا اخرى (فيديوهات, صوتيات, الخ.) <a href="https://dexter21767.github.io/socratechs/browsing_and_downloading_guide">اذا ابتعت بعض الخطواة البسيطة</a>.
 </li>
  </ul>
 <li>
